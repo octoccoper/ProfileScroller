@@ -1,0 +1,5 @@
+#location,
+#lastname,
+#firstname {
+    text-transform: capitalize;
+}
